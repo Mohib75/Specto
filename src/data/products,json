@@ -1,0 +1,402 @@
+[
+  {
+    "product_name": "Smartphone XS",
+    "product_image": "https://e7.pngegg.com/pngimages/595/29/png-clipart-iphone-xs-apple-iphone-x-64gb-silver-apple-iphone-x-256-gb-silver-unlocked-gsm-smartphone-telecoms-white-gadget.png",
+    "description": "A sleek and powerful smartphone with a 6.5-inch OLED display.",
+    "price": 799.99,
+    "category": "Electronics",
+    "ratings": 4.5,
+    "product_creation_date": "2024-07-01",
+    "brand": "TechCorp"
+  },
+  {
+    "product_name": "Wireless Headphones Pro",
+    "product_image": "https://static.vecteezy.com/system/resources/previews/024/558/845/original/blue-wireless-headphones-isolated-on-transparent-background-ai-generated-png.png",
+    "description": "Noise-cancelling wireless headphones with superior sound quality.",
+    "price": 299.99,
+    "category": "Electronics",
+    "ratings": 4.8,
+    "product_creation_date": "2024-07-02",
+    "brand": "SoundWave"
+  },
+  {
+    "product_name": "4K Ultra HD TV",
+    "product_image": "https://w7.pngwing.com/pngs/26/267/png-transparent-led-backlit-lcd-lcd-television-smart-tv-4k-resolution-others-television-war-media.png",
+    "description": "A 55-inch 4K Ultra HD TV with vibrant colors and deep blacks.",
+    "price": 999.99,
+    "category": "Electronics",
+    "ratings": 4.7,
+    "product_creation_date": "2024-07-03",
+    "brand": "Visionary"
+  },
+  {
+    "product_name": "Gaming Laptop Z15",
+    "product_image": "https://w7.pngwing.com/pngs/218/27/png-transparent-laptop-intel-core-i7-republic-of-gamers-notebook-miscellaneous-electronics-netbook.png",
+    "description": "High-performance gaming laptop with a 15.6-inch display and RTX graphics.",
+    "price": 1499.99,
+    "category": "Computers",
+    "ratings": 4.6,
+    "product_creation_date": "2024-07-04",
+    "brand": "GamerPro"
+  },
+  {
+    "product_name": "Smartwatch Elite",
+    "product_image": "https://e7.pngegg.com/pngimages/179/880/png-clipart-apple-watch-series-3-apple-watch-series-2-b-h-video-smartwatch-smart-watch-accessory-apple-watch.png",
+    "description": "A stylish smartwatch with health tracking and GPS.",
+    "price": 249.99,
+    "category": "Wearables",
+    "ratings": 4.4,
+    "product_creation_date": "2024-07-05",
+    "brand": "TimeTech"
+  },
+  {
+    "product_name": "Bluetooth Speaker Mini",
+    "product_image": "https://w7.pngwing.com/pngs/206/590/png-transparent-wireless-speaker-battery-charger-loudspeaker-enclosure-bluetooth-bluetooth-electronics-bluetooth-speaker.png",
+    "description": "Portable Bluetooth speaker with powerful bass and long battery life.",
+    "price": 59.99,
+    "category": "Audio",
+    "ratings": 4.3,
+    "product_creation_date": "2024-07-06",
+    "brand": "SoundWave"
+  },
+  {
+    "product_name": "Mechanical Keyboard MK120",
+    "product_image": "https://www.marsgaming.eu/uploads/_thumnails/mk120_960x960.png",
+    "description": "Mechanical keyboard with RGB lighting and tactile feedback.",
+    "price": 89.99,
+    "category": "Computers",
+    "ratings": 4.7,
+    "product_creation_date": "2024-07-07",
+    "brand": "KeyMaster"
+  },
+  {
+    "product_name": "UltraLight Running Shoes",
+    "product_image": "https://png.pngtree.com/png-vector/20240619/ourmid/pngtree-new-style-brand-sport-ultra-light-shoes-png-image_12799256.png",
+    "description": "Lightweight and comfortable running shoes for all-day wear.",
+    "price": 120.00,
+    "category": "Footwear",
+    "ratings": 4.8,
+    "product_creation_date": "2024-07-08",
+    "brand": "ActiveStep"
+  },
+  {
+    "product_name": "Stainless Steel Water Bottle",
+    "product_image": "https://w7.pngwing.com/pngs/659/737/png-transparent-water-bottles-stainless-steel-bottle.png",
+    "description": "Durable and insulated stainless steel water bottle.",
+    "price": 25.99,
+    "category": "Accessories",
+    "ratings": 4.5,
+    "product_creation_date": "2024-07-09",
+    "brand": "HydroStay"
+  },
+  {
+    "product_name": "Electric Kettle Pro",
+    "product_image": "https://e7.pngegg.com/pngimages/448/467/png-clipart-electric-kettle-electricity-price-multivarka-pro-electric-kettle-kitchen-grey-thumbnail.png",
+    "description": "Fast boiling electric kettle with temperature control.",
+    "price": 49.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.6,
+    "product_creation_date": "2024-07-10",
+    "brand": "BrewMaster"
+  },
+  {
+    "product_name": "Espresso Machine Elite",
+    "product_image": "https://e7.pngegg.com/pngimages/236/886/png-clipart-coffeemaker-cafe-espresso-machines-coffee-cafe-kitchen-appliance.png",
+    "description": "Professional-grade espresso machine for perfect coffee at home.",
+    "price": 349.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.9,
+    "product_creation_date": "2024-07-11",
+    "brand": "CaféPro"
+  },
+  {
+    "product_name": "Ergonomic Office Chair",
+    "product_image": "https://w7.pngwing.com/pngs/394/688/png-transparent-office-desk-chairs-human-factors-and-ergonomics-furniture-chair-angle-furniture-computer.png",
+    "description": "Comfortable and adjustable ergonomic office chair with lumbar support.",
+    "price": 199.99,
+    "category": "Furniture",
+    "ratings": 4.7,
+    "product_creation_date": "2024-07-12",
+    "brand": "ErgoComfort"
+  },
+  {
+    "product_name": "Smart Home Hub",
+    "product_image": "https://e7.pngegg.com/pngimages/846/876/png-clipart-smartthings-home-automation-kits-samsung-connect-home-ac1300-smart-wi-fi-system-ethernet-hub-samsung-group-wave-spray-electronics-automation-thumbnail.png",
+    "description": "Central hub for connecting and controlling smart home devices.",
+    "price": 129.99,
+    "category": "Smart Home",
+    "ratings": 4.4,
+    "product_creation_date": "2024-07-13",
+    "brand": "HomeLink"
+  },
+  {
+    "product_name": "Wireless Charger Pad",
+    "product_image": "https://png.pngtree.com/png-clipart/20211014/ourmid/pngtree-wireless-charger-base-black-png-image_3976232.png",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+    "price": 39.99,
+    "category": "Accessories",
+    "ratings": 4.3,
+    "product_creation_date": "2024-07-14",
+    "brand": "ChargeMax"
+  },
+  {
+    "product_name": "Fitness Tracker Band",
+    "product_image": "https://w7.pngwing.com/pngs/876/117/png-transparent-xiaomi-mi-band-2-activity-tracker-wristband-smartwatch-watch-physical-fitness-watch-accessory-bracelet-thumbnail.png",
+    "description": "Fitness tracker with heart rate monitor, step counter, and sleep tracking.",
+    "price": 79.99,
+    "category": "Wearables",
+    "ratings": 4.6,
+    "product_creation_date": "2024-07-15",
+    "brand": "FitTrack"
+  },
+  {
+    "product_name": "Noise-Cancelling Earbuds",
+    "product_image": "https://gadgetnmusic.com/wp-content/uploads/2022/10/1.JBL_TUNE_130NC_Product-image_Hero_Black.png",
+    "description": "Compact and comfortable noise-cancelling earbuds with great sound.",
+    "price": 149.99,
+    "category": "Audio",
+    "ratings": 4.7,
+    "product_creation_date": "2024-07-16",
+    "brand": "SoundWave"
+  },
+  {
+    "product_name": "Luxury Leather Wallet",
+    "product_image": "https://w7.pngwing.com/pngs/737/318/png-transparent-wallet-leather-handbag-zipper-men-s-leather-wallet-brown-fashion-men-suit-thumbnail.png",
+    "description": "Handcrafted leather wallet with multiple card slots and coin pocket.",
+    "price": 89.99,
+    "category": "Accessories",
+    "ratings": 4.8,
+    "product_creation_date": "2024-07-17",
+    "brand": "LeatherLux"
+  },
+  {
+    "product_name": "Digital SLR Camera",
+    "product_image": "https://w7.pngwing.com/pngs/31/934/png-transparent-black-nikon-dslr-camera-nikon-d800-nikon-d600-camera-digital-slr-camera-electronics-camera-lens-photography-thumbnail.png",
+    "description": "High-resolution digital SLR camera with interchangeable lenses.",
+    "price": 1199.99,
+    "category": "Cameras",
+    "ratings": 4.9,
+    "product_creation_date": "2024-07-18",
+    "brand": "PhotoPro"
+  },
+  {
+    "product_name": "Yoga Mat Pro",
+    "product_image": "https://static.vecteezy.com/system/resources/thumbnails/044/242/725/small/rolled-up-turquoise-yoga-mat-ready-for-fitness-png.png",
+    "description": "Non-slip yoga mat with extra cushioning for comfort.",
+    "price": 49.99,
+    "category": "Fitness",
+    "ratings": 4.7,
+    "product_creation_date": "2024-07-19",
+    "brand": "YogaLife"
+  },
+  {
+    "product_name": "Portable Power Bank",
+    "product_image": "https://image.similarpng.com/very-thumbnail/2021/06/Power-bank-for-charging-mobile-devices-on-transparent-background-PNG.png",
+    "description": "High-capacity portable power bank with dual USB ports.",
+    "price": 59.99,
+    "category": "Accessories",
+    "ratings": 4.5,
+    "product_creation_date": "2024-07-20",
+    "brand": "ChargeMax"
+  },
+  {
+    "product_name": "Travel Backpack",
+    "product_image": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL3Jhd3BpeGVsX29mZmljZV8yMl9iYWNrcGFja19mb3JfdHJla2tpbmdfaXNvbGF0ZWRfd2hpdGVfYmFja2dyb19hZmVjODY0OS1mZDBlLTQwMjctYTMwNi03OWFlNWU1NDgzZTEucG5n.png",
+    "description": "Durable and spacious travel backpack with multiple compartments.",
+    "price": 99.99,
+    "category": "Bags",
+    "ratings": 4.6,
+    "product_creation_date": "2024-07-21",
+    "brand": "TravelEase"
+  },
+  {
+    "product_name": "Smart Thermostat",
+    "product_image": "https://w7.pngwing.com/pngs/532/169/png-transparent-nest-learning-thermostat-nest-labs-smart-thermostat-home-automation-kits-warm-oneself-electronics-fruit-nut-amazon-echo.png",
+    "description": "Energy-efficient smart thermostat with remote control via smartphone.",
+    "price": 229.99,
+    "category": "Smart Home",
+    "ratings": 4.8,
+    "product_creation_date": "2024-07-22",
+    "brand": "EcoTemp"
+  },
+  {
+    "product_name": "Cordless Vacuum Cleaner",
+    "product_image": "https://w7.pngwing.com/pngs/593/915/png-transparent-sencor-cordless-handheld-vacuum-cleaner-for-wet-and-dry-vacuum-electrolux-rapido-zb51-black-decker-dustbuster-dammsugarp%C3%A5se-vacuum-cleaner-vacuum-cleaner-automotive-exterior-%D0%BF%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81.png",
+    "description": "Lightweight and powerful cordless vacuum cleaner with HEPA filter.",
+    "price": 299.99,
+    "category": "Home Appliances",
+    "ratings": 4.7,
+    "product_creation_date": "2024-07-23",
+    "brand": "CleanPro"
+  },
+  {
+    "product_name": "Portable Projector",
+    "product_image": "https://w7.pngwing.com/pngs/380/736/png-transparent-video-projector-handheld-projector-android-lcd-projector-mini-projector-electronics-hdmi-bluetooth.png",
+    "description": "Compact portable projector with full HD resolution and built-in speakers.",
+    "price": 399.99,
+    "category": "Electronics",
+    "ratings": 4.5,
+    "product_creation_date": "2024-07-24",
+    "brand": "Visionary"
+  },
+  {
+    "product_name": "Wireless Mouse Ergonomic",
+    "product_image": "https://png.pngtree.com/png-clipart/20220113/ourmid/pngtree-ai-original-hand-drawn-cartoon-buckle-free-element-wireless-mouse-png-image_4163015.png",
+    "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+    "price": 49.99,
+    "category": "Computers",
+    "ratings": 4.6,
+    "product_creation_date": "2024-07-25",
+    "brand": "KeyMaster"
+  },
+  {
+    "product_name": "Instant Pot Duo",
+    "product_image": "https://w7.pngwing.com/pngs/465/232/png-transparent-pressure-cooking-slow-cookers-instant-pot-ip-duo60-cooking-kitchen-cooking-rice-cooker.png",
+    "description": "Multi-use pressure cooker with 7-in-1 functionality.",
+    "price": 89.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.8,
+    "product_creation_date": "2024-07-26",
+    "brand": "CookEase"
+  },
+  {
+    "product_name": "Electric Toothbrush Advanced",
+    "product_image": "https://png.pngtree.com/png-vector/20240611/ourmid/pngtree-electric-toothbrush-for-advanced-cleaning-rechargeable-sonic-technology-with-timer-function-png-image_12658218.png",
+    "description": "Advanced electric toothbrush with multiple cleaning modes.",
+    "price": 79.99,
+    "category": "Personal Care",
+    "ratings": 4.7,
+    "product_creation_date": "2024-07-27",
+    "brand": "SmileBright"
+  },
+  {
+    "product_name": "Digital Photo Frame",
+    "product_image": "https://static.independent.co.uk/2024/04/04/14/Nixplay-frame-indybest.png",
+    "description": "Wi-Fi connected digital photo frame with HD display.",
+    "price": 129.99,
+    "category": "Home Decor",
+    "ratings": 4.6,
+    "product_creation_date": "2024-07-28",
+    "brand": "MemorEase"
+  },
+  {
+    "product_name": "Smart Doorbell Camera",
+    "product_image": "https://w7.pngwing.com/pngs/295/820/png-transparent-intercom-video-door-phone-door-bells-chimes-smart-doorbell-door-phone-smartphone-electronics-electronic-device-camera.png",
+    "description": "Smart doorbell camera with two-way audio and motion detection.",
+    "price": 149.99,
+    "category": "Smart Home",
+    "ratings": 4.8,
+    "product_creation_date": "2024-07-29",
+    "brand": "HomeLink"
+  },
+  {
+    "product_name": "Portable Blender",
+    "product_image": "https://w7.pngwing.com/pngs/97/482/png-transparent-blender-blaupunkt-price-ceneo-s-a-hand-blender-kitchen-appliance-small-appliance-electric-kettle-thumbnail.png",
+    "description": "Compact and powerful portable blender for smoothies on the go.",
+    "price": 49.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.5,
+    "product_creation_date": "2024-07-30",
+    "brand": "BlendPro"
+  },
+  {
+    "product_name": "Luxury Silk Pillowcase",
+    "product_image": "https://www.myksilk.com/cdn/shop/files/Untitleddesign_6.png?v=1696524867&width=1500",
+    "description": "Soft and smooth silk pillowcase for a comfortable night's sleep.",
+    "price": 79.99,
+    "category": "Bedding",
+    "ratings": 4.7,
+    "product_creation_date": "2024-08-01",
+    "brand": "SleepLux"
+  },
+  {
+    "product_name": "Wireless Charging Stand",
+    "product_image": "https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-wireless-charging-pedestal-with-smartphone-battery-isolated-charging-battery-technology-concept-png-image_10258284.png",
+    "description": "Convenient wireless charging stand for smartphones and smartwatches.",
+    "price": 59.99,
+    "category": "Accessories",
+    "ratings": 4.4,
+    "product_creation_date": "2024-08-02",
+    "brand": "ChargeMax"
+  },
+  {
+    "product_name": "Smart Air Purifier",
+    "product_image": "https://w7.pngwing.com/pngs/735/159/png-transparent-home-appliance-lg-air-purifier-kettle-white-electric-kettle-home-appliance-thumbnail.png",
+    "description": "Smart air purifier with HEPA filter and air quality monitoring.",
+    "price": 199.99,
+    "category": "Home Appliances",
+    "ratings": 4.6,
+    "product_creation_date": "2024-08-03",
+    "brand": "AirPure"
+  },
+  {
+    "product_name": "Bluetooth Car Kit",
+    "product_image": "https://d1gb7gicmr8iau.cloudfront.net/fit-in/1920x800/Media/Images/Product/Visual/20195_pictures_product_visual_1.png",
+    "description": "Bluetooth car kit with hands-free calling and music streaming.",
+    "price": 39.99,
+    "category": "Automotive",
+    "ratings": 4.3,
+    "product_creation_date": "2024-08-04",
+    "brand": "DriveEase"
+  },
+  {
+    "product_name": "Digital Kitchen Scale",
+    "product_image": "https://w7.pngwing.com/pngs/433/945/png-transparent-measuring-scales-food-industry-serving-size-restaurant-digital-scale-food-measuring-scales-small-appliance.png",
+    "description": "Precision digital kitchen scale with tare function and backlit display.",
+    "price": 29.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.7,
+    "product_creation_date": "2024-08-05",
+    "brand": "WeighMaster"
+  },
+  {
+    "product_name": "Electric Wine Opener",
+    "product_image": "https://www.waring.com/on/demandware.static/-/Sites-waring-master/default/dw306241f1/WWO120/wwo120-waring-wine-bottle-opener-main.png",
+    "description": "Rechargeable electric wine opener with foil cutter.",
+    "price": 39.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.5,
+    "product_creation_date": "2024-08-06",
+    "brand": "WineEase"
+  },
+  {
+    "product_name": "Luxury Watch Chrono",
+    "product_image": "https://w7.pngwing.com/pngs/641/687/png-transparent-chronograph-watch-panerai-titan-company-luxury-goods-watch-watch-accessory-accessories-black.png",
+    "description": "Luxury chronograph watch with stainless steel case and leather strap.",
+    "price": 499.99,
+    "category": "Watches",
+    "ratings": 4.9,
+    "product_creation_date": "2024-08-07",
+    "brand": "TimeMaster"
+  },
+  {
+    "product_name": "Cordless Hair Clipper",
+    "product_image": "https://w7.pngwing.com/pngs/463/207/png-transparent-hair-clipper-electric-razors-hair-trimmers-cordless-rechargeable-battery-string-trimmer-procession-miscellaneous-hair-shaving.png",
+    "description": "Cordless hair clipper with adjustable blades and long battery life.",
+    "price": 69.99,
+    "category": "Personal Care",
+    "ratings": 4.6,
+    "product_creation_date": "2024-08-08",
+    "brand": "TrimPro"
+  },
+  {
+    "product_name": "Apple MacBook Pro 14",
+    "product_image": "https://www.apple.com/v/macbook-pro-14-and-16/a/images/meta/macbook-pro-14-and-16_overview__fz0lron5xyuu_og.png",
+    "description": "The new MacBook Pro 14 with M1 Pro chip delivers exceptional performance and battery life. Ideal for professionals who need power on the go.",
+    "price": 1999.99,
+    "category": "Laptop",
+    "ratings": 4.8,
+    "product_creation_date": "2024-08-09",
+    "brand": "Apple"
+   },
+   {
+    "product_name": "Google Pixel 7",
+    "product_image": "https://mtunda.ug/cdn/shop/files/Google-Pixel-7-Pro-3.png?v=1722249105&width=1445",
+    "description": "The Google Pixel 7 offers a clean Android experience with an outstanding camera, fast performance, and all-day battery life.",
+    "price": 899.99,
+    "category": "Smartphone",
+    "ratings": 4.5,
+    "product_creation_date": "2024-08-10",
+    "brand": "Google"
+   }
+]
